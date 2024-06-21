@@ -37,7 +37,7 @@ Welcome to the Blog App, a full-stack blogging platform built using the MERN sta
 3. Create a `.env` file in the `api` folder and add the following environment variables:
 
     ```plaintext
-    PORT=3000
+    PORT=5000
     MONGODB_URI
     JWT_SECRET
     ```
